@@ -1,0 +1,10 @@
+H:\GVS Projects\MBsolver\bin\Debug\MBsolver.exe.config
+H:\GVS Projects\MBsolver\bin\Debug\MBsolver.exe
+H:\GVS Projects\MBsolver\bin\Debug\MBsolver.pdb
+H:\GVS Projects\MBsolver\bin\Debug\Solver.dll
+H:\GVS Projects\MBsolver\bin\Debug\Solver.pdb
+H:\GVS Projects\MBsolver\obj\Debug\MBsolver.csprojAssemblyReference.cache
+H:\GVS Projects\MBsolver\obj\Debug\MBsolver.csproj.CoreCompileInputs.cache
+H:\GVS Projects\MBsolver\obj\Debug\MBsolver.csproj.CopyComplete
+H:\GVS Projects\MBsolver\obj\Debug\MBsolver.exe
+H:\GVS Projects\MBsolver\obj\Debug\MBsolver.pdb
